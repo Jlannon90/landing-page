@@ -1,0 +1,187 @@
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+
+body {
+  background-image: url("../img/dad.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+#icon1 {
+  width: 40px;
+  height: auto;
+  float: left;
+}
+
+.menu-bar a {
+  color: white;
+  padding-right: 20px;
+  text-decoration: none;
+}
+
+.menu-bar button {
+  margin-left: 5px;
+}
+
+.menu-bar {
+  float: right;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+#top-left-butt {
+color: white;
+border: 2px solid white;
+background-color: rgba(255,255,255, .1);
+border-radius: 3px;
+padding: 7px;
+}
+
+#top-right-butt {
+  color: black;
+  background-color: #EFC026;
+  border: 2px solid #EFC026;
+  border-radius: 3px;
+  padding: 7px;
+  font-weight: bold;
+}
+
+.large-icon img {
+
+  margin-top: 450px;
+}
+
+.large-icon {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10em;
+}
+
+.title {
+  font-size: 60px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.subtitle {
+  font-style: italic;
+  color: white;
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+.buttons {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#left-button {
+  color: white;
+  border: 2px solid white;
+  background-color: rgba(255,255,255, .3);
+  border-radius: 3px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 12px;
+  margin-top: 25px;
+  margin-right: 3px;
+}
+
+#flame {
+  width: 15px;
+  margin-right: 4px;
+}
+
+#right-button {
+  color: white;
+  background-color: #3563b9;
+  border: 2px solid #3563b9;
+  border-radius: 3px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 12px;
+  margin-top: 25px;
+  margin-left: 3px;
+
+}
+
+#facebook {
+  width:15px;
+  margin-right: 4px;
+}
+
+.links {
+  width: 330px;
+  margin-top: 190px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+#apple {
+  width: 40px;
+  float: left;
+  margin-left: 20px;
+}
+
+#apple-small{
+  float: left;
+  color: white;
+  font-family: sans-serif;
+  font-size: 12px;
+  margin-top: 0px;
+  margin-left: 2px;
+  margin-right: 10px;
+}
+
+#apple-big {
+  font-size: 20px;
+}
+
+#plane {
+  width: 40px;
+  float: left;
+  margin-left: 3px;
+}
+
+#trav-one {
+  float: left;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  margin-top: 0px;
+  margin-left: 4px;
+
+
+}
+
+
+#trav-two {
+  font-size: 12px;
+  padding-top: 0px;
+
+}
+
+.footer {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-family: sans-serif;
+  margin-top: 10px;
+}
