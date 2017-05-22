@@ -8,7 +8,7 @@
 
 
 body {
-  background-image: url("../img/dad.jpg");
+  background-image: url("../img/daddi.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
@@ -59,7 +59,7 @@ padding: 7px;
 }
 
 .large-icon {
-  text-align: center;
+  /*text-align: center;*/
   margin-left: auto;
   margin-right: auto;
   width: 10em;
